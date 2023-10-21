@@ -54,7 +54,7 @@ http://103.141.2.38/hls/cnhd.m3u8
 
 *****Cartoon Sections End*****
 
-*****Documentory Sections Start*****
+*****Documentary Sections Start*****
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Documentory", Discovery
 http://103.141.2.38/hls/discovery.m3u8
@@ -62,7 +62,7 @@ http://103.141.2.38/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="Documentory", National Geographic
 http://103.141.2.38/hls/ngohd.m3u8
 
-*****Documentory Sections End*****
+*****Documentary Sections End*****
 
 *****English Movies Sections Start*****
 
@@ -97,8 +97,8 @@ http://103.141.2.38/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious", Al Quran
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious", Al Quran
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious", AS Sunnah
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 *****Religious Sections End*****
 
