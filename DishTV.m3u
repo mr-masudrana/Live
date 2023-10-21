@@ -1,0 +1,119 @@
+#EXTM3U
+
+
+*****Indian Bangla Sections Start*****
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dd_bangla.png" group-title="Bangla Entertainment", DD Bangla
+http://longstream-01.ajaah.com/PlayBoxTV/DDBangla/PlayBoxTV/DDBangla_1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aakaash_aath_in.png" group-title="Bangla Entertainment", Akash Aath
+http://103.141.2.38/hls/akashaath.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-bangla-in.png" group-title="Bangla Entertainment", Colors Bangla HD
+http://103.141.2.38/hls/colorsbangla.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-bangla-cinema-in.png" group-title="Bangla Movies", Colors Bangla Cinema
+http://103.141.2.38/hls/colore-bangla-cinema.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/enterr-10-bangla-in.png" group-title="Bangla Entertainment", Enterr 10 Bangla
+http://103.141.2.38/hls/enterr10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sangeet-bangla-in.png" group-title="Bangla Music", Sangeet Bangla
+http://103.141.2.38/hls/sangeetbangla.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-aath-in.png" group-title="Bangla Entertainment", Sony Aath
+http://103.141.2.38/hls/Sony_Aath.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-jalsha-in.png" group-title="Bangla Entertainment", Star Jalsha HD
+http://103.141.2.38/hls/starjalsha.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_jalsha_movies_in.png" group-title="Bangla Movies", Star Jalsha Movies
+http://103.141.2.38/hls/jalshamovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Bangla Entertainment", Sun Bangla
+http://103.141.2.38/hls/sunbangla.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/ruposhi_bangla_tv_in.png" group-title="Bangla Entertainment", Ruposhi Bangla
+http://103.141.2.38/hls/ruposhibangla.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bangla-in.png" group-title="Bangla Entertainment", ZEE Bangla HD
+http://103.141.2.38/hls/zeebanglahd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bangla-cinema-in.png" group-title="Bangla Movies", ZEE Bangla Cinema
+http://103.141.2.38/hls/zee-bangla-cinema.m3u8
+
+*****Indian Bangla Sections End*****
+
+*****Cartoon Sections Start*****
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_in_hd_plus.png" group-title="Cartoon", Nick
+http://103.141.2.38/hls/nick.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-hdplus-us-in.png" group-title="Cartoon", Cartoon Network
+http://103.141.2.38/hls/cnhd.m3u8
+
+*****Cartoon Sections End*****
+
+*****Documentory Sections Start*****
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Documentory", Discovery
+http://103.141.2.38/hls/discovery.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="Documentory", National Geographic
+http://103.141.2.38/hls/ngohd.m3u8
+
+*****Documentory Sections End*****
+
+*****English Movies Sections Start*****
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="English Movies", &flix 
+http://89.187.177.137:8081/&FLIX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="English Movies", &prive 
+http://89.187.177.137:8081/&PRIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" group-title="English Movies", MN+ 
+http://103.141.2.38/hls/mn+.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnx-in.png" group-title="English Movies", MNX 
+http://103.141.2.38/hls/mnx-hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now.png" group-title="English Movies", Movies Now 
+http://103.141.2.38/hls/movies-now.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="English Movies", Star Movies 
+http://103.141.2.38/hls/starmovies.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="English Movies", Sony Pix 
+http://103.141.2.38/hls/sonypixhd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/romedy_now_in.png" group-title="English Movies", Romedy Now 
+http://103.141.2.38/hls/star-worldhd.m3u8
+
+*****English Movies Sections End*****
+
+*****Religious Sections Start*****
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious", Al Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Religious", Al Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+*****Religious Sections End*****
+
+*****English News Sections Start*****
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="English News", Al Jazeera
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg" group-title="English News", BBC News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-us.svg" group-title="English News", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="English News", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+*****English News Sections End*****
