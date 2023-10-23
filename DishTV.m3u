@@ -117,3 +117,44 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 *****English News Sections End*****
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-bd.png" group-title="Sports", Tsprots
+http://test-otv1.ftpbd.net/streams/115/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-bd.png" group-title="Sports", Sports 18
+http://test-otv1.ftpbd.net/streams/107/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png" group-title="Sports", Star Sports 1
+http://test-otv1.ftpbd.net/streams/110/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="Sports", Star Sports 2
+http://test-otv1.ftpbd.net/streams/121/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-3-hk-in.png" group-title="Sports", Star Sports 3
+http://test-otv1.ftpbd.net/streams/122/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-in.png" group-title="Sports", Star Sports Select 1 
+http://test-otv1.ftpbd.net/streams/116/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-in.png" group-title="Sports", Star Sports Select 2 
+http://test-otv1.ftpbd.net/streams/125/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="Sports", Sony Sports 1
+http://test-otv1.ftpbd.net/streams/111/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="Sports", Sony Sports 2
+http://test-otv1.ftpbd.net/streams/109/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="Sports", Sony Sports 3
+http://test-otv1.ftpbd.net/streams/122/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png" group-title="Sports", Sony Sports 4
+
+http://test-otv1.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="Sports", Sony Sports 5
+
+http://test-otv1.ftpbd.net/streams/122/index.m3u8
