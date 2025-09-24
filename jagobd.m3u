@@ -1,11 +1,3 @@
-<html>
-  <head>
-    <script>
-      window.location.replace("https://t.me/mr_masudrana/");
-    </script>
-  </head>
-</html>
-
 #EXTM3U
 #EXTINF:-1 tvg-id="101" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-national-bd.png" group-title="Bangla", BTV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/tracks-v1a1/mono.m3u8
@@ -141,4 +133,3 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 #EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dw-news.png" group-title="English News", DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream101/index.m3u8
-
